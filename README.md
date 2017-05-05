@@ -1,5 +1,7 @@
 # NEON
-A class library for implementation of NEON UI in your UWP app
+A class library for implementation of NEON UI in your UWP app.
+
+NOTE : THIS RUNS ONLY ON RS2 BUILDS OR ABOVE.	
 
 How to use it in your own projects:
 
