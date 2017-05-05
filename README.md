@@ -12,12 +12,17 @@ After that set initializer to your MainPage's code behind. So add this code in y
 
 Then use the controls in your XAML :
 
-xmlns:Neon="using:SamplesCommon"
+            xmlns:Neon="using:SamplesCommon"
 
-<Neon:HostBackDrop BlurAmount="30" />
+			<Neon:HostBackDrop BlurAmount="30" />
+
+			
+
+
+
 
 DONE !
-You have some other controls. Like backdrophost which is for making a blur window container, backdrop with is for making a blur control and other controls which are documented on Windows UI Labs.
+You have some other controls. Like HostBackDrop which is for making a blur window container, BackDrop which is for making a blur control and other controls which are documented on Windows UI Labs.
 
 
 This sample and controls are drived from Windows UI Labs.
